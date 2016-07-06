@@ -1,7 +1,7 @@
 ## The Shasta Website
 
-A simple website made using bootstrap and the "Business Casual" template from [startbootstrap.com](http://startbootstrap.com/template-overviews/business-casual/)
-Mostly to provide contact info and pictures of sheep for any prospective buyers.
+A simple website made using bootstrap and the "Business Casual" template from [startbootstrap.com](http://startbootstrap.com/template-overviews/business-casual/).
+Mostly to provide contact info and pictures of sheep for any prospective buyers.  Check it out [here](http://neilmarion1.github.io/ShastaWebsite/)!
 
 
 ## Creator
